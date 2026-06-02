@@ -6,13 +6,6 @@
 
 
 
-> **⚠️ Catatan:** 
-> - Aplikasi ini memerlukan hosting dengan support **PHP + MySQL**
-> - Untuk demo lokal, gunakan **XAMPP/WAMP/Laragon**
-> - Link di atas adalah contoh - ganti dengan domain/hosting Anda
-
-
-
 ## 📋 Fitur Utama
 
 ### 📊 **Dashboard**
