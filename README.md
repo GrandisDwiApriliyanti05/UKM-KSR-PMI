@@ -1,26 +1,17 @@
 # 🩸 PMI Smart Blood Management System
 
-[![PHP](https://img.shields.io/badge/PHP-8.1+-blue?style=for-the-badge&logo=php)]()
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?style=for-the-badge&logo=mysql)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?style=for-the-badge&logo=bootstrap)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
 > **Sistem Informasi Manajemen Stok Darah dan Donor Darah PMI berbasis Web.** Aplikasi modern untuk mengelola stok darah, data pendonor, permintaan darah dari rumah sakit, jadwal kegiatan donor, dan laporan real-time dengan desain profesional dan responsive.
 
 ---
 
-## 🚀 Demo & Deploy
 
-### 🔗 **Aplikasi Live:** [https://pmi-smart-blood.000webhostapp.com](https://pmi-smart-blood.000webhostapp.com)
 
 > **⚠️ Catatan:** 
 > - Aplikasi ini memerlukan hosting dengan support **PHP + MySQL**
 > - Untuk demo lokal, gunakan **XAMPP/WAMP/Laragon**
 > - Link di atas adalah contoh - ganti dengan domain/hosting Anda
 
-### 📱 **Video Demo:** [Tonton di YouTube](https://youtube.com) *(optional)*
 
----
 
 ## 📋 Fitur Utama
 
@@ -97,15 +88,3 @@
 - Apache/Nginx Web Server
 - Minimal RAM 2GB
 - Storage 100MB
-
-### **Langkah Instalasi (Lokal - XAMPP)**
-
-#### 1. **Download & Install XAMPP**
-```bash
-# Download XAMPP dari:
-https://www.apachefriends.org/download.html
-
-# Install XAMPP di:
-C:\xampp\ (Windows)
-/opt/lampp/ (Linux)
-/Applications/XAMPP/ (Mac)
